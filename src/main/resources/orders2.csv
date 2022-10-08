@@ -1,0 +1,5 @@
+id,customerId,amount,status
+1,1033,2000.00,"confirmed"
+2,1012,4500.00,"pending"
+3,1054,500.00,"shipped"
+4,1012,5000.00,"delivered"
